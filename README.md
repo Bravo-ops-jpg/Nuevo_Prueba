@@ -4,8 +4,8 @@
 
 * A list of some books I want to share in format **Epub** (I want to clarify that I did not read most of them)
   
-  * [English-Inglés]()
+  * English-Inglés
 
 * Una lista de algunos libros que quiero compartir en formato **Epub** (Quiero aclarar que no leí la mayoría de ellos)
 
-  * [Spanish-Español-Castellano]()
+  * Spanish-Español-Castellano
